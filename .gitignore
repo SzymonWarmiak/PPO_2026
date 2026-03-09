@@ -1,0 +1,18 @@
+# Keil uVision build files
+*.o
+*.d
+*.crf
+*.lnp
+*.plg
+*.htm
+*.map
+*.axf
+*.hex
+*.sct
+*.dep
+*.bak
+*.lst
+JLinkLog.txt
+*.uvguix.*
+Objects/
+Listings/
