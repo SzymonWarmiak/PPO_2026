@@ -1,0 +1,53 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\szymo\Desktop\AGH\SEMESTR_4\PPO\C++\src\3\ppo.uvproj
+Project File Date:  03/07/2026
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling led.cpp...
+led.cpp(36): warning:  #1-D: last line of file ends without a newline
+compiling main.cpp...
+main.cpp(21): error:  #135: class "Led" has no member "StepLeft"
+main.cpp(24): warning:  #1-D: last line of file ends without a newline
+compiling stepper.cpp...
+stepper.h(15): warning:  #1-D: last line of file ends without a newline
+stepper.cpp(17): error:  #265-D: function "Led::On" (declared at line 10 of "led.h") is inaccessible
+".\ppo.axf" - 2 Errors, 3 Warning(s).
+Target not created
+Build target 'Target 1'
+compiling led.cpp...
+led.cpp(36): warning:  #1-D: last line of file ends without a newline
+compiling main.cpp...
+main.cpp(21): error:  #135: class "Led" has no member "StepLeft"
+main.cpp(24): warning:  #1-D: last line of file ends without a newline
+compiling stepper.cpp...
+stepper.h(15): warning:  #1-D: last line of file ends without a newline
+".\ppo.axf" - 1 Errors, 3 Warning(s).
+Target not created
+Build target 'Target 1'
+compiling led.cpp...
+led.cpp(36): warning:  #1-D: last line of file ends without a newline
+compiling main.cpp...
+stepper.h(15): warning:  #1-D: last line of file ends without a newline
+main.cpp(29): warning:  #1-D: last line of file ends without a newline
+compiling stepper.cpp...
+stepper.h(15): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=868 RO-data=32 RW-data=4 ZI-data=1260  
+".\ppo.axf" - 0 Errors, 4 Warning(s).
+Build target 'Target 1'
+compiling main.cpp...
+main.cpp(29): warning:  #1-D: last line of file ends without a newline
+compiling stepper.cpp...
+linking...
+Program Size: Code=868 RO-data=32 RW-data=4 ZI-data=1260  
+".\ppo.axf" - 0 Errors, 1 Warning(s).
+Build target 'Target 1'
+compiling main.cpp...
+linking...
+Program Size: Code=868 RO-data=32 RW-data=4 ZI-data=1260  
+".\ppo.axf" - 0 Errors, 0 Warning(s).
