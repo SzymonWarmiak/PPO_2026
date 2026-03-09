@@ -6,7 +6,7 @@ I (C:\Users\szymo\Desktop\AGH\SEMESTR_4\PPO\C++\src\5\Keyboard.h)(0x69AC152B)
 F (.\led.cpp)(0x69AECC07)(--cpp -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\led.o --omf_browse .\led.crf --depend .\led.d)
 I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x51C80D9C)
 I (C:\Users\szymo\Desktop\AGH\SEMESTR_4\PPO\C++\src\5\led.h)(0x69AECBC5)
-F (.\main.cpp)(0x69AECC21)(--cpp -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+F (.\main.cpp)(0x69AECC95)(--cpp -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\main.o --omf_browse .\main.crf --depend .\main.d)
 I (C:\Users\szymo\Desktop\AGH\SEMESTR_4\PPO\C++\src\5\led.h)(0x69AECBC5)
 I (C:\Users\szymo\Desktop\AGH\SEMESTR_4\PPO\C++\src\5\stepper.h)(0x69AEC927)
 F (.\stepper.cpp)(0x69AEC8B5)(--cpp -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\stepper.o --omf_browse .\stepper.crf --depend .\stepper.d)
